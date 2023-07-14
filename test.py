@@ -4,3 +4,12 @@ class TestModel(models.Model):
 
 class Meta:
   db_table = " test_model"
+
+
+
+
+
+
+
+
+print("changes are done ")
