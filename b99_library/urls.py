@@ -41,13 +41,3 @@ urlpatterns = [
 
 
 
-# http://127.0.0.1:8000/admin/
-# http://127.0.0.1:8000/home/
-# http://127.0.0.1:8000/show-books/
-# http://127.0.0.1:8000/show-single-book/
-# http://127.0.0.1:8000/add-book/
-# http://127.0.0.1:8000/edit-book/
-# http://127.0.0.1:8000/delete-book/
-# http://127.0.0.1:8000/soft_delete-book/
-# http://127.0.0.1:8000/form-view/
-
