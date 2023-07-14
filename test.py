@@ -9,7 +9,7 @@ class Meta:
 
 
 
-
+C:\Users\Dell\Desktop\pythonB9\djangoproject\b99_library\sample.py
 
 
 print("changes are done ")
